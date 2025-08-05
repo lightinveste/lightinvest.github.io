@@ -644,21 +644,4 @@
                 <div class="plan-name">📅 Weekly Pro</div>
                 <div class="plan-rate">4.2%</div>
                 <div class="plan-details">
-                    • Weekly compounding<br>
-                    • Minimum: $500<br>
-                    • Maximum: $25,000<br>
-                    • Higher returns
-                </div>
-                <button class="invest-btn">Invest Now</button>
-            </div>
-            
-            <div class="plan-card" onclick="showInvestmentForm('monthly')">
-                <div class="plan-name">🚀 Monthly Max</div>
-                <div class="plan-rate">15%</div>
-                <div class="plan-details">
-                    • Monthly compounding<br>
-                    • Minimum: $1,000<br>
-                    • Maximum: $50,000<br>
-                    • Premium returns
-                </div>
-                <button class="invest-btn">Invest Now</but# lightinvest.github.io
+                
